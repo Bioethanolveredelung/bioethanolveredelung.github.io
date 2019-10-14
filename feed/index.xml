@@ -19,11 +19,19 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>./../wp-content/uploads/2019/10/cropped-apricot-3266975-32x32.png</url>
+	<title>Branntwein AG 2019</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>And so the adventure begins</title>
 		<link>./../2018/11/21/sed-nimis-multa/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:05:44 +0000</pubDate>
-		<dc:creator><![CDATA[administrator]]></dc:creator>
+		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4155</guid>
@@ -63,7 +71,7 @@
 		<title>We rise by lifting others</title>
 		<link>./../2018/11/21/pyrrhonem-aut-aristonem/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:04:19 +0000</pubDate>
-		<dc:creator><![CDATA[administrator]]></dc:creator>
+		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4154</guid>
@@ -98,7 +106,7 @@
 		<title>Never stop dreaming</title>
 		<link>./../2018/11/21/qui-autem-esse-poteris/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:02:42 +0000</pubDate>
-		<dc:creator><![CDATA[administrator]]></dc:creator>
+		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4153</guid>
