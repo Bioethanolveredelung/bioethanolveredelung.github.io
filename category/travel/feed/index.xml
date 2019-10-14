@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Travel &#8211; Branntwein AG 2019</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://branntwein-ag.github.io/category/travel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branntwein-ag.github.io/</link>
 	<description>Ein Projekt der TU Graz</description>
 	<lastBuildDate>Sun, 13 Oct 2019 19:27:17 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2019/10/cropped-apricot-3266975-32x32.png</url>
+	<url>https://branntwein-ag.github.io/wp-content/uploads/2019/10/cropped-Logo_2000x2000-32x32.png</url>
 	<title>Travel &#8211; Branntwein AG 2019</title>
-	<link>./../../../index.html</link>
+	<link>https://branntwein-ag.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>And so the adventure begins</title>
-		<link>./../../../2018/11/21/sed-nimis-multa/index.html</link>
+		<link>https://branntwein-ag.github.io/2018/11/21/sed-nimis-multa/</link>
 				<pubDate>Wed, 21 Nov 2018 12:05:44 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4155</guid>
-				<description><![CDATA[Sic enim censent, oportunitatis esse beate vivere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Videsne quam sit magna dissensio? Ergo, si semel tristior effectus est, hilara vita amissa est? Quam illa ardentis amores excitaret sui! Cur tandem? Si enim ad populum me vocas, eum. Et harum quidem rerum facilis<a class="moretag" href="./../../../2018/11/21/sed-nimis-multa/index.html"> Weiterlesen&#8230;</a>]]></description>
+				<description><![CDATA[Sic enim censent, oportunitatis esse beate vivere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Videsne quam sit magna dissensio? Ergo, si semel tristior effectus est, hilara vita amissa est? Quam illa ardentis amores excitaret sui! Cur tandem? Si enim ad populum me vocas, eum. Et harum quidem rerum facilis<a class="moretag" href="https://branntwein-ag.github.io/2018/11/21/sed-nimis-multa/"> Weiterlesen&#8230;</a>]]></description>
 								<content:encoded><![CDATA[<h4>Sic enim censent, oportunitatis esse beate vivere.</h4>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Videsne quam sit magna dissensio? Ergo, si semel tristior effectus est, hilara vita amissa est?</p>
 <h4>Quam illa ardentis amores excitaret sui! Cur tandem?</h4>
@@ -69,13 +69,13 @@
 										</item>
 		<item>
 		<title>We rise by lifting others</title>
-		<link>./../../../2018/11/21/pyrrhonem-aut-aristonem/index.html</link>
+		<link>https://branntwein-ag.github.io/2018/11/21/pyrrhonem-aut-aristonem/</link>
 				<pubDate>Wed, 21 Nov 2018 12:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4154</guid>
-				<description><![CDATA[Duo Reges: constructio interrete Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur id non ita fit? Cupiditates non Epicuri divisione finiebat, sed sua satietate. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. Ita ne hoc quidem modo paria peccata sunt. Si qua in iis corrigere voluit,<a class="moretag" href="./../../../2018/11/21/pyrrhonem-aut-aristonem/index.html"> Weiterlesen&#8230;</a>]]></description>
+				<description><![CDATA[Duo Reges: constructio interrete Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur id non ita fit? Cupiditates non Epicuri divisione finiebat, sed sua satietate. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. Ita ne hoc quidem modo paria peccata sunt. Si qua in iis corrigere voluit,<a class="moretag" href="https://branntwein-ag.github.io/2018/11/21/pyrrhonem-aut-aristonem/"> Weiterlesen&#8230;</a>]]></description>
 								<content:encoded><![CDATA[<h4>Duo Reges: constructio interrete</h4>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur id non ita fit? Cupiditates non Epicuri divisione finiebat, sed sua satietate. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. Ita ne hoc quidem modo paria peccata sunt.</p>
 <p>Si qua in iis corrigere voluit, deteriora fecit. Quamquam non negatis nos intellegere quid sit voluptas, sed quid ille dicat. Qui autem voluptate vitam effici beatam putabit, qui sibi is conveniet, si negabit voluptatem crescere longinquitate? Tu autem negas fortem esse quemquam posse, qui dolorem malum putet. Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam. Quicquid porro animo cernimus, id omne oritur a sensibus;</p>
@@ -104,13 +104,13 @@
 										</item>
 		<item>
 		<title>Never stop dreaming</title>
-		<link>./../../../2018/11/21/qui-autem-esse-poteris/index.html</link>
+		<link>https://branntwein-ag.github.io/2018/11/21/qui-autem-esse-poteris/</link>
 				<pubDate>Wed, 21 Nov 2018 12:02:42 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
 
 		<guid isPermaLink="false">https://demo.themeisle.com/hestia-default/?p=4153</guid>
-				<description><![CDATA[Cum praesertim illa perdiscere ludus esset Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc ipsum elegantius poni meliusque potuit. Duo Reges: constructio interrete. Sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis. Claudii libidini, qui<a class="moretag" href="./../../../2018/11/21/qui-autem-esse-poteris/index.html"> Weiterlesen&#8230;</a>]]></description>
+				<description><![CDATA[Cum praesertim illa perdiscere ludus esset Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc ipsum elegantius poni meliusque potuit. Duo Reges: constructio interrete. Sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis. Claudii libidini, qui<a class="moretag" href="https://branntwein-ag.github.io/2018/11/21/qui-autem-esse-poteris/"> Weiterlesen&#8230;</a>]]></description>
 								<content:encoded><![CDATA[<h4>Cum praesertim illa perdiscere ludus esset</h4>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc ipsum elegantius poni meliusque potuit. Duo Reges: constructio interrete. Sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis.</p>
 <p>Claudii libidini, qui tum erat summo ne imperio, dederetur. Teneo, inquit, finem illi videri nihil dolere. Est enim effectrix multarum et magnarum voluptatum. O magnam vim ingenii causamque iustam, cur nova existeret disciplina! Perge porro.</p>
