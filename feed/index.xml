@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Branntwein AG 2019</title>
-	<atom:link href="https://branntwein-ag.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://branntwein-ag.github.io/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Ein Projekt der TU Graz</description>
 	<lastBuildDate>Sun, 13 Oct 2019 19:27:17 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 
 <image>
-	<url>https://branntwein-ag.github.io/wp-content/uploads/2019/10/cropped-Logo_2000x2000-32x32.png</url>
+	<url>./../wp-content/uploads/2019/10/cropped-Logo_2000x2000-32x32.png</url>
 	<title>Branntwein AG 2019</title>
-	<link>https://branntwein-ag.github.io/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>And so the adventure begins</title>
-		<link>https://branntwein-ag.github.io/2018/11/21/sed-nimis-multa/</link>
+		<link>./../2018/11/21/sed-nimis-multa/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:05:44 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
@@ -69,7 +69,7 @@
 										</item>
 		<item>
 		<title>We rise by lifting others</title>
-		<link>https://branntwein-ag.github.io/2018/11/21/pyrrhonem-aut-aristonem/</link>
+		<link>./../2018/11/21/pyrrhonem-aut-aristonem/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>
@@ -104,7 +104,7 @@
 										</item>
 		<item>
 		<title>Never stop dreaming</title>
-		<link>https://branntwein-ag.github.io/2018/11/21/qui-autem-esse-poteris/</link>
+		<link>./../2018/11/21/qui-autem-esse-poteris/index.html</link>
 				<pubDate>Wed, 21 Nov 2018 12:02:42 +0000</pubDate>
 		<dc:creator><![CDATA[Design Gruppe]]></dc:creator>
 				<category><![CDATA[Travel]]></category>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare für Branntwein AG 2019	</title>
-	<atom:link href="https://branntwein-ag.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://branntwein-ag.github.io/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Ein Projekt der TU Graz</description>
 	<lastBuildDate>2019-10-14 16:05:17</lastBuildDate>
 	<sy:updatePeriod>
