@@ -419,6 +419,8 @@ body:not(.home) .navbar-default .navbar-nav > .active > a, body:not(.home) .navb
 body.admin-bar .navbar {margin-top: 32px;}
 .navbar.navbar-transparent {color: #fff;background-color: transparent;box-shadow: none;}
 .navbar.navbar-transparent > .container {padding-top: 25px;}
+.navbar.navbar-transparent .hestia-hide-if-transparent {display: none;}
+.navbar.navbar-not-transparent .hestia-transparent-logo {display: none;}
 .navbar {background-color: #fff;color: #555;border-radius: 0;position: fixed;border: none;padding: 0;transition: none;box-shadow: 0 1px 10px -6px rgba(0,0,0,.42),0 1px 10px 0 rgba(0,0,0,.12),0 4px 5px -2px rgba(0,0,0,.1);}
 .navbar .navbar-collapse {border: none;}
 .navbar .title-logo-wrapper {max-width: 250px;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-align-items: center;-ms-flex-align: center;align-items: center;}
@@ -1263,7 +1265,10 @@ figure.wp-block-pullquote cite {text-transform: uppercase;font-size: 13px;font-w
 .single-post-wrap .has-medium-font-size, .page-content-wrap .has-medium-font-size {font-size: 20px;}
 .single-post-wrap .has-large-font-size, .page-content-wrap .has-large-font-size {font-size: 36px;}
 .single-post-wrap .has-huge-font-size, .page-content-wrap .has-huge-font-size {font-size: 48px;}
-.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {max-width: 150px;border-bottom: 0;}
+.wp-block-separator {color: #eee;background-color: #eee;border: none;}
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {height: 2px;max-width: 150px;}
+.wp-block-separator .is-style-default {height: 1px;}
+.wp-block-separator.is-style-wide {max-width: 100%;height: 1px;}
 .page-header .container, .page-header .author, .page-header .author a, .page-header .hestia-title, .page-header .title, .page-header .description {color: #fff;}
 .page-content-wrap:after, .single-post-wrap:after {content: "";display: table;clear: both;}
 #parallax_move ~ .item .page-header, #wp-custom-header ~ .item .page-header {overflow: inherit;}
