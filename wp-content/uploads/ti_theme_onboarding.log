@@ -1,18 +1,21 @@
-[31/Oct/2019:18:35:36] (ℹ️): WordPress Instance Info:
-[31/Oct/2019:18:35:36] (ℹ️): Home URL : http://3.124.97.49
-[31/Oct/2019:18:35:36] (ℹ️): Site URL : http://3.124.97.49
-[31/Oct/2019:18:35:36] (ℹ️): WordPress Version : 5.2.4
-[31/Oct/2019:18:35:36] (ℹ️): Onboarding Version : 1.7.8
-[31/Oct/2019:18:35:36] (ℹ️): Multisite : No
-[31/Oct/2019:18:35:36] (ℹ️): Server Info : Apache
-[31/Oct/2019:18:35:36] (ℹ️): PHP Version : 7.3.11
-[31/Oct/2019:18:35:36] (ℹ️): HTTPS : No
-[31/Oct/2019:18:35:36] (ℹ️): PHP Max Execution Time : 120
-[31/Oct/2019:18:35:36] (ℹ️): PHP Max Input Vars : 1000
-[31/Oct/2019:18:35:36] (ℹ️): Max Upload Size : 268435456
-[31/Oct/2019:18:35:36] (ℹ️): Plugins:
-[31/Oct/2019:18:35:36] (ℹ️): [PLUGIN] All in One SEO Pack : v3.2.10 (Michael Torbert)
-[31/Oct/2019:18:35:36] (ℹ️): [PLUGIN] Elementor : v2.7.5 (Elementor.com)
-[31/Oct/2019:18:35:36] (ℹ️): [PLUGIN] Loginizer : v1.4.2 (Raj Kothari)
-[31/Oct/2019:18:35:36] (ℹ️): [PLUGIN] WP2Static : v6.6.6 (Leon Stafford)
-[31/Oct/2019:18:35:36] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.10 (Themeisle)
+[18/Jan/2020:09:07:50] (ℹ️): WordPress Instance Info:
+[18/Jan/2020:09:07:50] (ℹ️): Home URL : https://3.124.97.49
+[18/Jan/2020:09:07:50] (ℹ️): Site URL : https://3.124.97.49
+[18/Jan/2020:09:07:50] (ℹ️): WordPress Version : 5.3.2
+[18/Jan/2020:09:07:50] (ℹ️): Onboarding Version : 1.7.12
+[18/Jan/2020:09:07:50] (ℹ️): Multisite : No
+[18/Jan/2020:09:07:50] (ℹ️): Server Info : Apache
+[18/Jan/2020:09:07:50] (ℹ️): PHP Version : 7.3.11
+[18/Jan/2020:09:07:50] (ℹ️): HTTPS : Yes
+[18/Jan/2020:09:07:50] (ℹ️): PHP Max Execution Time : 120
+[18/Jan/2020:09:07:50] (ℹ️): PHP Max Input Vars : 1000
+[18/Jan/2020:09:07:50] (ℹ️): Max Upload Size : 268435456
+[18/Jan/2020:09:07:50] (ℹ️): Plugins:
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] All in One SEO Pack : v3.3.4 (Michael Torbert)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] Elementor : v2.8.3 (Elementor.com)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] Enable Media Replace : v3.3.7 (ShortPixel)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] Imagify : v1.9.8.1 (WP Media)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] Loginizer : v1.4.3 (Raj Kothari)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] WP2Static : v6.6.7 (Leon Stafford)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.14 (Themeisle)
+[18/Jan/2020:09:07:50] (ℹ️): [PLUGIN] WP Add Mime Types : v2.4.0 (Kimiya Kitani)
